@@ -14,7 +14,8 @@ I will post the fritzing diagram shortly, but for now it's just the code for the
 + 1 - [5V 1 Channel relay](https://www.amazon.com/Indicator-Light-Channel-Module-Arduino/dp/B00P7QDJD2/ref=sr_1_5?ie=UTF8&qid=1521067126&sr=8-5&keywords=single+5v+relay)
 
 ESP8266 NodeMCU
-![ESP8266](/esp8266.jpg)
+![ESP8266](/esp8266-nodemcu.png)
 
 120V - 5V Relay
-![Relay](/120v-5v-relay.jpg)
+<img src=""
+![Relay](/120v-5v-relay.png)
