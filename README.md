@@ -8,7 +8,7 @@ This project is very simple and inexpensive. The items on the BOM are available 
 
 The ESP8266 is a very cool microcontroller because it is programmable like an Arduino, but has built-in WiFi with a full TCP/IP stack, and is very inexpensive. 
 
-I will post the fritzing diagram shortly, but for now it's just the code for the HTTP server and BOM.
+I will post the fritzing diagram along with photos of the project fully assembled shortly, but for now it's just the code for the HTTP server and BOM. I actually disassembled the project to use the parts for another project before I had a chance to take photos of the finished solution ;)
 
 ### BOM
 
