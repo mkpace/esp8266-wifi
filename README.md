@@ -2,7 +2,7 @@
 
 This project is an experiment in turning Lights on/off using an ESP8266 WiFi microcontroller which is accessible from an IP address on my local WiFi network. 
 
-This is a quick spike project to test the features of the ESP8266, an experiment in wiring directly into 120V using a 120v AC - 5v DC relay, and the genesis of an idea to fully wire all plug-in lamps around the house to be accessible from an internally hosted web page. A more extensive project will be to open a VPN connection to allow the lamps to be accessed from outside the house.
+This is a quick spike project to test the features of the ESP8266, an experiment using a 120v AC - 5v DC relay, and the genesis of an idea to fully wire all plug-in lamps around the house to be accessible from an internally hosted web page. A more extensive project will be to open a VPN connection to allow the lamps to be accessed from outside the house.
 
 This project is very simple and inexpensive. The items on the BOM are available from Amazon (links).
 
